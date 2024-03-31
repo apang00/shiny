@@ -1,1 +1,1 @@
-# shiny
+When running model, change import the aus.csv file into working environment and run
