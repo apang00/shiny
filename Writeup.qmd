@@ -1,0 +1,58 @@
+---
+title: The Diversity of Auschwitz Prisoners
+author: Yi Fei Pang
+thanks: "Code and data used in this analysis can be found at: https://github.com/apang00/shiny"
+date: today
+date-format: long
+format: pdf
+toc: true
+---
+
+
+
+
+
+
+
+
+
+
+{{< pagebreak >}}
+# Introduction
+
+World War II was a war that spanned from 1939 to 1945. It was a conflict that involved many major nations across the world. The war mainly consisted of two coalitions with the Allies, comprising of countries such as the United States, the Soviet Union, and the United Kingdom, and the Axis powers, which comprised of Germany, Italy, and Japan.
+
+Germany was by far the most powerful and aggressive country. Under Adolf Hitler's leadership, Nazi Germany tried to take over major European landmasses while attempting to establish the fascism ideology. The fascism ideology was dangerous and racist because it was a belief that the Aryan race was superior to all others. This belief led to a campaign to persecute and annihilate pretty much all that was non-Aryan and this included Jews, Roma people, individuals with disabilities, and other marginalized groups. This led to a cruel “ethnic cleansing” of those who were non-Aryan.
+
+Concentration camps were used as a tool by Germany many years before the Second World War. Since 1933, there have been concentration camps hosted in Germany for political prisoners, gypsies, and homosexuals. These camps served as mostly prisons. However, after seizing Poland, Hitler and many of his high-ranking officials began the construction of concentration camps in the city of Auschwitz. The conditions of these new camps were much worse than those of the original concentration camps and were used as a tool for both Nazi oppression as well as eradication. 
+
+One striking quote from an acclaimed author and concentration camp survivor Elie Wiesel noted “Never shall I forget that night, the first night in camp, which has turned my life into one long night, seven times cursed and seven times sealed....Never shall I forget those moments which murdered my God and my soul and turned my dreams to dust. Never shall I forget these things, even if I am condemned to live as long as God Himself. Never.” The quote goes to show how genuinely traumatizing it was for those who have experienced the camps.
+
+There were two main categories of camps, the hard labor camps and the eradication camps. The labor camps had terrible living conditions where the inmates underwent forced labor, starvation, illnesses, and harsh treatment from prison guards. Furthermore, the camp was also used for conducting human experiments. The conditions along with the treatment of these prisoners resulted in many prisoners dying or falling critically ill.
+
+
+{{< pagebreak >}}
+# Analysis
+The eradication camps were used to kill prisoners and cremate them. The dataset that’s used comes from one of these camps. 
+
+The Nazi regime's ideology, which centered on supremacy didn't just target groups within Germany but also reached individuals from various nationalities worldwide. This belief in superiority and inferiority led to the persecution and mass killing of millions who didn't align with the Aryan-centric preference.
+
+When analyzing the death records from Auschwitz and other camps it becomes evident that most victims were individuals captured in regions like France, the Netherlands, and Poland. Concerning religion, there is an abundance of Catholics, Protestants, and people from different faiths and backgrounds aside from Jews who were killed in these camps. Interestingly enough, in this particular dataset, there were actually more Catholics killed than Jews.
+![Deaths by Religion](Ethnics Table.png){fig-align="center" fig-width="50%"} 
+
+When observing the nationality of those on the list, the data shows that around 800 individuals from Canada, over 800 from El Salvador, along with people from countries as far as South Africa, India, Peru, and beyond were recorded within the list of the murdered. This variety of the nationalities of victims demonstrates how the Aryan ideology transcended borders to impact individuals from all over the world.
+![Deaths by Nationality (5 countries)](Part Nationality.png){fig-align="center" fig-width="50%"}
+
+
+
+In essence, the data shows that the Nazi persecution and genocide were indiscriminate and violent and their belief caused the deaths of millions of individuals considered "inferior". This hatred went beyond their own borders resulting in the suffering and loss of many people unrelated to Germany and led to the mutiny of anyone and anywhere that does not abide by their agenda ethnically or religiously.
+
+Ultimately, this serves as a reminder of the dangers posed by supremacist beliefs and shows how racial hatred does not discriminate. Alongside the tens of thousands of names on that list that came from countries that were directly at war with Germany, there were thousands more that were collateral, Imagine how many more there were on the other lists. 
+
+{{< pagebreak >}}
+# Bibliography 
+1. “NAZI CAMPS.” Holocaust Encyclopedia, United States Holocaust Memorial 
+Museum, 20 Jan. 2024, encyclopedia.ushmm.org/content/en/article/nazi-camps. 
+
+2. Wiesel, Elie. “Night Quotes by Elie Wiesel.” Goodreads, Goodreads, Accessed 1 Apr. 2024. 
+
